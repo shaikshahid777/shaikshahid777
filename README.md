@@ -1,6 +1,8 @@
-# Shaik Mohammad Shaheed
+<div align="center">
 
-## 🤖 AI Agent Engineer in Progress 🚀
+<img src="./assets/profile-banner.svg" alt="Shaik Mohammad Shaheed — AI & Automation" width="100%" />
+
+# 🤖 AI Agent Engineer in Progress 🚀
 
 **Generative AI · AI Agents · n8n · Python · REST APIs · Automation**
 
@@ -9,6 +11,8 @@ I build practical AI-powered workflows and automation systems using **LLMs, APIs
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaikshaheed777/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaik.shaheed.m@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaikshahid777)
+
+</div>
 
 ---
 
@@ -20,8 +24,6 @@ I build practical AI-powered workflows and automation systems using **LLMs, APIs
 - 🐍 Strengthening **Python for AI engineering**
 - 🧠 Learning **LLMs, structured outputs, tool calling, RAG and agent architecture**
 - 🚀 Interested in building production-oriented AI automation systems
-
----
 
 ## 🛠️ What I'm Building
 
@@ -78,8 +80,6 @@ Conversational appointment booking automation integrating AI with workflow autom
 
 [![API Resilience](https://img.shields.io/badge/View-n8n--API--Resilience-FF6B35?style=for-the-badge&logo=n8n&logoColor=white)](https://github.com/shaikshahid777/n8n-api-resilience-assessment)
 
----
-
 ## 🧪 Assessment Work
 
 ### n8n AI Agent Assessment — Topic 1
@@ -129,8 +129,6 @@ FastAPI
 Production AI Agents
 ```
 
----
-
 ## 💻 Tech Stack
 
 **AI / GenAI**
@@ -171,8 +169,6 @@ Production AI Agents
 
 My goal is to grow from workflow automation into a strong **AI Agent Engineer** capable of designing reliable, tool-using, API-connected AI systems.
 
----
-
 ## 🤝 Let's Connect
 
 If you're interested in **AI agents, automation, n8n, Generative AI, APIs or practical AI engineering**, feel free to connect.
@@ -182,4 +178,8 @@ If you're interested in **AI agents, automation, n8n, Generative AI, APIs or pra
 
 ---
 
+<div align="center">
+
 ⭐ **Building the future, one automation at a time.**
+
+</div>
